@@ -8,7 +8,7 @@
     "require": {
         "ckeditor/fakeobjects": "4.16.0",
         "ckeditor/iframe": "4.16.0",
-        "ckeditor/liststyle": "4.16.0",
+        "ckeditor/liststyle": "4.11.1",
         "drupal/address": "^1.4",
         "drupal/allowed_formats": "^1.1",
         "drupal/better_exposed_filters": "^3.0-alpha5",
